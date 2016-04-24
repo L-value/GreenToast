@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GreenRoast</string>
+    <string name="hello_world">再按一次退出程序</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
